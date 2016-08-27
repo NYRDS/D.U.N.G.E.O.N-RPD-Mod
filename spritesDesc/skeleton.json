@@ -1,0 +1,7 @@
+{ texture = "skeleton.png",
+width = 12, 
+height = 14,
+ idle = { fps = 2, looped = true, frames = [0,0,0,1] },
+ run = { fps = 15, looped = true, frames = [2,3,4,5, 6,7] }, attack = { fps = 11, looped = false, frames = [8,9,10,0] }, 
+die = { fps = 6, looped = false, frames = [11,12] }
+}
