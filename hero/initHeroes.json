@@ -37,8 +37,8 @@
 		"kind": "Pasty",
 		"quantity": 3
 		}],
-        "str":100,
-        "hp":200
+        "str":10,
+        "hp":20
 	},
 	"WARRIOR": {
 		"weapon": {
@@ -63,7 +63,7 @@
 		"ring1": {
 			"kind": "RingOfShadows",
 			"identified": true,
-			"level": 0
+			"level": 1
 		},
       "knownItems":[{"kind":"ScrollOfMagicMapping"}]
 	},
