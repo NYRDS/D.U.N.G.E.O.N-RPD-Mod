@@ -19,8 +19,7 @@
       "test":{"kind":"PredesignedLevel", "depth":0,  "size":[16,16], "file":"levelsDesc/Konkurs.json", "music":"Agroprom.mp3"}
    },
    "Graph":{
-      "0":[["predbannic
-"],[]],
+      "0":[["predbannic"],[]],
       "predbannic":[["kordon"],[]],
       "bar":[[],["novikov"],[3]],
       "town_shop":[[],["novikov"],[2]],
