@@ -1,0 +1,25 @@
+{
+"width":24,
+"height":24,
+"tiles":"tiles3_x.png",
+"water":"water1.png",
+"rooms":["ARMORY","GARDEN","LABORATORY"],
+"mobs":[
+{"kind":"Monk"},
+{"kind":"Shielded"},
+{"kind":"Shielded"},
+{"kind":"Bat"},
+{"kind":"Shielded"},
+{"kind":"Brute"}
+],
+"items":[
+{"kind":"PotionOfHealing"},
+{"kind":"PotionOfStrength"},
+{"kind":"WandOfLightning","level":3"},
+{"kind":"Codex", "text":"CodexLab1"},
+{"kind":"IronKey","levelId":"ATP","depth":6}
+
+],
+"nMobs":9,
+"nTraps":4
+}

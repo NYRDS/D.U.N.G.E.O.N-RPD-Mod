@@ -1,0 +1,11 @@
+{ "entrance":[4, 1],
+ "height":3,
+ "map":[4, 4, 4, 4, 4, 4, 4, 11, 1, 1, 7, 4, 4, 4, 4, 4, 4, 4],
+ "multiexit":[],
+ "tiles":"tiles0_x.png",
+ "water":"water0.png",
+ "width":6,
+       "items" = [
+ {"kind":"IronKey","levelId":"ATP","depth":0,"x":1,"y":1}
+ ]
+}
