@@ -11,18 +11,34 @@
 		"items": [{
 			"kind": "Gold",
 			"quantity": 200
-		},
+	    },
 		{
 		"kind": "CommonArrow",
 			"quantity": 10,
 			"identified": true
 		},
-{
+		{
+		"kind": "Codex",
+		    "text":"CodexSurv",
+			"identified": true
+		},
+		{
+		"kind": "Codex",
+		    "text":"CodexA",
+			"identified": true
+		},
+		{
+		"kind":"SkeletonKey",
+        "levelId":"sovet",
+        "depth":10,
+        "identified": true
+        },
+        {
 		"kind": "Pasty",
 		"quantity": 3
 		}],
-        "str":10,
-        "hp":20
+        "str":100,
+        "hp":200
 	},
 	"WARRIOR": {
 		"weapon": {
@@ -47,7 +63,7 @@
 		"ring1": {
 			"kind": "RingOfShadows",
 			"identified": true,
-			"level": 1
+			"level": 0
 		},
       "knownItems":[{"kind":"ScrollOfMagicMapping"}]
 	},
