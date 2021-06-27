@@ -1,0 +1,21 @@
+{
+"defenseSkill":0,
+"attackSkill":0,
+"exp":0,
+"maxlevel":0,
+"dr":10,
+"dmgMin":0,
+"dmgMax":0,
+"baseSpeed":0,
+"attackDelay":0,
+"ht":100,
+"name":"Металлический шар",
+"name_objective":"Метталический шар",
+"description":"Вроде бы обычный шар из металла, но тебя настараживает изображёное на нём лицо",
+"gender":"masculine",
+"spriteDesc":"spritesDesc/test1Sp.json",
+"walkingType":"NORMAL",
+"aiState":"Passive",
+"friendly":true,
+"canBePet":false
+}

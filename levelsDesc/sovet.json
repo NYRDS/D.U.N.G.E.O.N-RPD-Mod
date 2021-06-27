@@ -8,9 +8,9 @@
 "items" : [
 {"kind":"Pasty","x":19,"y":16,"quantity"=3},
 {"kind":"Javelin","x":19,"y":15,"quantity"=5},
-{"kind":"CommonArrow","x":19,"y":14,"quantity"=30},
+{"kind":"9x39mmSP5","x":19,"y":14,"quantity"=30},
 {"kind":"PotionOfStrength","x":19,"y":13},
 {"kind":"MailArmor","x":18,"y":13, "level":3},
-{"kind":"RubyBow","x":18,"y":14, "level":3}
+{"kind":"Vintar","x":18,"y":14, "level":3}
 ]
 }

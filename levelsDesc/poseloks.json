@@ -17,6 +17,8 @@
 ],
 "items" : [
 {"kind":"Keyring","x":21,"y":13},
-{"kind":"ScrollOfWeaponUpgrade","x":29,"y":7}
+{"kind":"ScrollOfUpgrade","x":29,"y":7},
+{"kind":"12x70mmFraction","quantity":40,"x":4,"y":5},
+{"kind":"Chezer-13","x":4,"y":5}
 ]
 }

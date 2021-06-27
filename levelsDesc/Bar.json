@@ -8,6 +8,9 @@
  "map":[4, 4, 4, 4, 4, 4, 4, 4, 1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4],
  "multiexit":[],
  "tiles":"Citywip_b.png",
+ "tiles_logic":"tiles_predbannic.png",
+ "tiles_base":"Citywip_b.png",
+ "tiles_deco":"Citywip_b.png",
  "water":"water0.png",
  "width":7,
     "mobs" : [

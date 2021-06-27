@@ -18,7 +18,7 @@
 {"kind":"Crab","x":25,"y":37}
 ],
 "items" = [
-{"kind"="ParalysisArrow","x":29,"y":52, "quantity"=20},
+{"kind":"9x39mmSP5","x":29,"y":52, "quantity":30},
 {"kind"="LeatherArmor","x":1,"y":46, "level":3},
 {"kind"="RingOfShadows","x":16,"y":40, "level":3},
 {"kind"="Spear","x":44,"y":5, "level":2},

@@ -1,0 +1,61 @@
+{
+  "FOOD": {
+    "categoryChance": 10,
+    "OverpricedRation" : 1,
+    "Pasty": 0.5
+  },
+  "THROWABLE": {
+    "categoryChance": 6,
+    "Dart": 1,
+    "CurareDart": 0.1,
+    "IncendiaryDart": 0.1
+  },
+  "ARMOR": {
+    "categoryChance": 4,
+    "PlateArmor": 0.5,
+      "ScaleArmor": 0.5,
+      "GothicArmor": 0.5,
+      "LeatherArmor": 1,
+      "ClothArmor": 1,
+      "MailArmor": 1,
+      "RatArmor": 0,
+      "SpiderArmor":0
+  },
+      "BULLETS": {
+          "categoryChance":30,
+      "9x18mm":20,
+      "9x19mmFMJ":18,
+      "5,45x39mm":16,
+      "12x70mmFraction":19,
+      "9x39mmSP5":15
+    },
+  "SCROLL": {
+    "categoryChance": 8,
+    "ScrollOfMagicMapping": 1,
+    "ScrollOfIdentify": 1,
+    "SpellBook": 0
+  },
+  "POTION": {
+    "categoryChance": 8,
+    "PotionOfPurity": 1,
+    "PotionOfHealing": 1,
+    "ManaPotion": 0
+  },
+  "WEAPON": {
+    "categoryChance": 3,
+    "Sword": 1,
+    "Knuckles": 1,
+    "Spear": 1,
+    "CurareDart": 1,
+    "Dagger": 1
+  },
+  "SHIELDS": {
+    "categoryChance": 1,
+    "WoodenShield": 0
+  },
+  "UNIQUE": {
+      "categoryChance":1,
+      "Torch": 4,
+      "SpellBook": 0
+    }
+}

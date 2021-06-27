@@ -41,6 +41,7 @@
 {"kind"="RingOfHaste","x":12,"y":8},
 {"kind"="Stylus","x":32,"y":22},
 {"kind"="ScaleArmor","x":33,"y":35, "level":3},
-{"kind"="Weightstone","x":45,"y":6}
+{"kind"="AK-74_2","x":45,"y":6},
+{"kind":"5,45x39mm","x":45,"y":6}
 ]
 }

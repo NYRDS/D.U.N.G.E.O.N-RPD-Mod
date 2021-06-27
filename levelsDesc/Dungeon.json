@@ -2,7 +2,7 @@
    "Levels":{
       "0":{"kind":"SewerLevel", "depth":0,        "size":[0,0]},
       "predbannic":{"kind":"PredesignedLevel", "depth":0, "size":[96,96], "music":"Agroprom.mp3", "file":"levelsDesc/predbannic.json"},
-      "town_shop":{"kind":"TownShopLevel", "depth":2, "size":[32,32], "isSafe":true, "music":"Kordon.mp3"},
+      "town_shop":{"kind":"PredesignedLevel", "depth":2, "size":[7,5], "isSafe":true, "music":"Kordon.mp3", "file":"levelsDesc/Novikov_Shop.json","treasury":"TownShopTreasury.json"},
       "kordon":{"kind":"PredesignedLevel", "depth":1,  "size":[48,48], "file":"levelsDesc/Kordon.json", "music":"Agroprom.mp3"},
       "novikov":{"kind":"PredesignedLevel", "depth":2,  "size":[24,24], "file":"levelsDesc/Novikov.json", "music":"Kordon.mp3"},
       "bar":{"kind":"PredesignedLevel", "depth":3,  "size":[7,8], "file":"levelsDesc/Bar.json", "music":"Kordon.mp3"},
