@@ -31,17 +31,17 @@
 {"kind":"Gnoll","x":2,"y":42},
 {"kind":"Gnoll","x":1,"y":44}
 ],
-"objects" = [
-{"kind"="Sign","x":41,"y":43, "text"="Svalka1_Text"},
-{"kind"="Sign","x":44,"y":8, "text"="Svalka2_Text"}
+"objects" : [
+{"kind":"Sign","x":41,"y":43, "text":"Svalka1_Text"},
+{"kind":"Sign","x":44,"y":8, "text":"Svalka2_Text"}
 ],
-"items" = [
-{"kind"="Ration","x":37,"y":3, "quantity"=2},
-{"kind"="Pasty","x":37,"y":4, "quantity"=2},
-{"kind"="RingOfHaste","x":12,"y":8},
-{"kind"="Stylus","x":32,"y":22},
-{"kind"="ScaleArmor","x":33,"y":35, "level":3},
-{"kind"="AK-74_2","x":45,"y":6},
+"items" : [
+{"kind":"Ration","x":37,"y":3, "quantity":2},
+{"kind":"Pasty","x":37,"y":4, "quantity":2},
+{"kind":"RingOfHaste","x":12,"y":8},
+{"kind":"Stylus","x":32,"y":22},
+{"kind":"ScaleArmor","x":33,"y":35, "level":3},
+{"kind":"AKM-74_2","x":45,"y":6},
 {"kind":"5,45x39mm","x":45,"y":6}
 ]
 }
